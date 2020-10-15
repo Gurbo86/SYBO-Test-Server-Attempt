@@ -1,0 +1,11 @@
+D:\Projects\SYBO-Test\SyboTest\ServerTestProject\ServerTest\ServerTest\obj\Debug\netcoreapp2.1\ServerTest.csprojAssemblyReference.cache
+D:\Projects\SYBO-Test\SyboTest\ServerTestProject\ServerTest\ServerTest\obj\Debug\netcoreapp2.1\ServerTest.csproj.CoreCompileInputs.cache
+D:\Projects\SYBO-Test\SyboTest\ServerTestProject\ServerTest\ServerTest\obj\Debug\netcoreapp2.1\ServerTest.AssemblyInfoInputs.cache
+D:\Projects\SYBO-Test\SyboTest\ServerTestProject\ServerTest\ServerTest\obj\Debug\netcoreapp2.1\ServerTest.AssemblyInfo.cs
+D:\Projects\SYBO-Test\SyboTest\ServerTestProject\ServerTest\ServerTest\bin\Debug\netcoreapp2.1\ServerTest.deps.json
+D:\Projects\SYBO-Test\SyboTest\ServerTestProject\ServerTest\ServerTest\bin\Debug\netcoreapp2.1\ServerTest.runtimeconfig.json
+D:\Projects\SYBO-Test\SyboTest\ServerTestProject\ServerTest\ServerTest\bin\Debug\netcoreapp2.1\ServerTest.runtimeconfig.dev.json
+D:\Projects\SYBO-Test\SyboTest\ServerTestProject\ServerTest\ServerTest\bin\Debug\netcoreapp2.1\ServerTest.dll
+D:\Projects\SYBO-Test\SyboTest\ServerTestProject\ServerTest\ServerTest\bin\Debug\netcoreapp2.1\ServerTest.pdb
+D:\Projects\SYBO-Test\SyboTest\ServerTestProject\ServerTest\ServerTest\obj\Debug\netcoreapp2.1\ServerTest.dll
+D:\Projects\SYBO-Test\SyboTest\ServerTestProject\ServerTest\ServerTest\obj\Debug\netcoreapp2.1\ServerTest.pdb
